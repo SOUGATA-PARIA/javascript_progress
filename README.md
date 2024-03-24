@@ -1,2 +1,2 @@
-# c_programming
-a repository for saving code practiced for college semester on c language
+# java_script
+a repository for saving code practiced for learning javascript
